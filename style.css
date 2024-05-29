@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --background: #dde1e7;
+    --rectangle-background: rgb(227, 222, 231);
+    --shadow-light: rgba(255, 255, 255, 0.45);
+    --shadow-medium: rgba(94, 104, 121, 0.3);
+    --shadow-dark:rgba(0, 0, 0, 0.45);
+    --darkBlue:rgb(0, 0, 45);
+    --time-text-light: #dde1e7;
+    --textColor:#fff;
+}
+
